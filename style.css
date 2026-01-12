@@ -3,7 +3,7 @@
     margin: 0;
 }
 header{
-    background-color: #2d7180;
+    background-color: white;
     height: 5vh;
     width: 100%;
     border-radius: 20px 20px 0px 0px;
@@ -45,4 +45,5 @@ footer{
     width: 100%;
 
 }
+
 
