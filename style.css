@@ -22,7 +22,7 @@ h1{
 }
 main{
     background-color: #e0ffff;
-    padding: 20px;
+    padding: 200px;
 }
 .state img{
     width: 35%;
@@ -43,4 +43,5 @@ footer{
     border-radius: 0px 0px 20px 20px;
     height: 5vh;
     width: 100%;
+
 }
