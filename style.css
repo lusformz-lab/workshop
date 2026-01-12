@@ -3,8 +3,8 @@
     margin: 0;
 }
 header{
-    background-color: #e0ffff;
-    height: 10vh;
+    background-color: #2d7180;
+    height: 5vh;
     width: 100%;
     border-radius: 20px 20px 0px 0px;
     position: relative;
@@ -45,6 +45,7 @@ footer{
     width: 100%;
 
 }
+
 
 
 
